@@ -1,0 +1,14 @@
+body {
+  background: #f7f7f7;
+  padding: 30px;
+}
+input, button {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+}
+button {
+  cursor: pointer;
+  background: black;
+  color: white;
+}
